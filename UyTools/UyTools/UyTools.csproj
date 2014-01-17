@@ -34,7 +34,7 @@
     <PublishUrl>C:\Users\Iwethen\Desktop\UyTools\</PublishUrl>
     <InstallUrl />
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.0.0.4</ApplicationVersion>
+    <ApplicationVersion>1.0.0.5</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>7</UpdateInterval>
@@ -242,6 +242,8 @@
     <Compile Include="ThisAddIn.cs">
       <SubType>Code</SubType>
     </Compile>
+    <None Include="Resources\ug.aff" />
+    <None Include="Resources\ug.dic" />
     <None Include="ThisAddIn.Designer.xml">
       <DependentUpon>ThisAddIn.cs</DependentUpon>
     </None>
@@ -259,7 +261,7 @@
   <ItemGroup>
     <Content Include="Hunspellx64.dll" />
     <Content Include="Hunspellx86.dll" />
-    <Content Include="NHunspell.dll" />
+    <Content Include="Resources\ug.txt" />
     <None Include="Resources\user-info-icon.png" />
     <None Include="Resources\Actions-spellcheck-icon.png" />
   </ItemGroup>
