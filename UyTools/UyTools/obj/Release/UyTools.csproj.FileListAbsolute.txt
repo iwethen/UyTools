@@ -1,0 +1,17 @@
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\UyTools.dll
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\UyTools.pdb
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\UyTools.dll.manifest
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\UyTools.vsto
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\NHunspell.dll
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.Fixing.resources
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.Form1.resources
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.Properties.Resources.resources
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.Ribbon.resources
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.csproj.GenerateResource.Cache
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.dll
+C:\Users\Iwethen\Documents\Visual Studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.pdb
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\obj\Release\UyTools.csprojResolveAssemblyReference.cache

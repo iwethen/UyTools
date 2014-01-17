@@ -1,0 +1,14 @@
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\UyTools.dll
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\UyTools.pdb
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\UyTools.dll.manifest
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\UyTools.vsto
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\obj\Debug\UyTools.csprojResolveAssemblyReference.cache
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\obj\Debug\UyTools.Properties.Resources.resources
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\obj\Debug\UyTools.UyTools.resources
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\obj\Debug\UyTools.csproj.GenerateResource.Cache
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\obj\Debug\UyTools.dll
+C:\Users\Iwethen\documents\visual studio 2013\Projects\UyTools\UyTools\obj\Debug\UyTools.pdb
